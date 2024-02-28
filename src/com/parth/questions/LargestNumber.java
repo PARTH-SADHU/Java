@@ -12,7 +12,7 @@ public class LargestNumber {
 
         while(number !=0){
             largestNumber = number;
-            if(number> largestNumber){
+            if(number > largestNumber){
                 largestNumber = number;
             }
             System.out.println("Enter next number or enter 0 to exit");
