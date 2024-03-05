@@ -8,8 +8,6 @@ public class DiceRoller {
     Random random;
     DiceRoller(){
         random = new Random();
-        roll();
-
     }
 
     void roll(){

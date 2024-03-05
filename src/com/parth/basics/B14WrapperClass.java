@@ -4,7 +4,7 @@ public class B14WrapperClass {
     public static void main(String[] args) {
 
 //        Wrapper class :- They are the classes that provides a way to use primitive datatypes as an object,
-//        it provides a way to use primitive data types as reference datatypes as reference datatypes contains
+//        it provides a way to use primitive data types as reference datatypes, as reference datatypes contains
 //        useful methods which can be used with the collections.
         /*
             * Primitive Data Type	Wrapper Class
