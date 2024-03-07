@@ -1,4 +1,4 @@
-package com.parth.assignments;
+package com.parth.assignments.basiclevel;
 
 import java.util.Scanner;
 
