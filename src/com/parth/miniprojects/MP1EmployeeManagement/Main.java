@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println("Welcome to Employee-Management-System");
         System.out.println("EMS Menu:-");
-        System.out.println("Press 1 : To Display the Employee details | Press 2 : To Update any employee details");
+        System.out.println("Press 1 : To Display the Employee details | Press 2 : To Add a New Employee");
         System.out.println("Press 3 : To Delete the Employees details | Press 4 : To Exit");
         System.out.print("Select any one options from the menu:-");
         int userMenuInput = Integer.parseInt(scan.next());
@@ -24,7 +24,7 @@ public class Main {
             if(userMenuInput == 1){
                 System.out.println("Disply menu");
             } else if (userMenuInput == 2) {
-                System.out.println("Update menu");
+                System.out.println("Add menu");
 
             } else if (userMenuInput == 3) {
                 System.out.println("Delete menu");
